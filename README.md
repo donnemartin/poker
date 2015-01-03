@@ -19,8 +19,8 @@ Poker hand ranker written in C++.
     See the License for the specific language governing permissions and
     limitations under the License.
 
+##Ranked Hands
+
 Uses the set of hands from http://en.wikipedia.org/wiki/Hand_rankings to demonstrate its functionality:
 
 ![alt tag](https://raw.githubusercontent.com/donnemartin/poker/master/res/pokerhands.png)
-
-![alt tag](https://raw.githubusercontent.com/donnemartin/poker/master/res/poker.png)
